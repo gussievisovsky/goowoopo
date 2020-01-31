@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veibiicisu.isaacsevier.com/sitemap.xml
